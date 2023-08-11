@@ -2,7 +2,7 @@
   <img src="https://github.com/BGAB0322/BGAB0322/blob/main/_image/my_logo.gif" width="300" heigth="300">
 </div>
 
-### Hi there 👋
+### 👋Hi there. I'm a Software Engineer using C++ and ROS.
 
 <!--
 **BGAB0322/BGAB0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
