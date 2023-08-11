@@ -1,4 +1,6 @@
-![그림1](https://github.com/BGAB0322/BGAB0322/blob/main/_image/my_logo.gif?raw=true){:.centered}
+<div align="center">
+  <img src="https://github.com/BGAB0322/BGAB0322/blob/main/_image/my_logo.gif"/>
+</div>
 
 ### Hi there 👋
 
