@@ -1,3 +1,5 @@
+![그림1](https://github.com/BGAB0322/BGAB0322/blob/main/_image/my_logo.gif?raw=true){:.centered}
+
 ### Hi there 👋
 
 <!--
