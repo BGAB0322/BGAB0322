@@ -4,6 +4,8 @@
 
 #### Hi there👋I'm a Software Engineer using C++ and ROS.
 
+#### 👉[BGAB's Blog](https://bgab0322.github.io/blog/)
+
 ## 📈 GitHub Stats
 
 <br>
